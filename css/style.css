@@ -1,0 +1,66 @@
+
+.front-image {
+    margin-right: 100px;
+    margin-left: 200px;
+    margin-top: -50px;
+    height: 400px;
+    max-width: 423px;
+}
+
+.panel-top {
+
+}
+
+.intro-text {
+    text-align: center;
+}
+
+#card {
+
+}
+
+.content {
+    text-align: center;
+    font-size: 20pt;
+    color: #14aa5a;
+}
+
+#custom-card {
+
+}
+
+.welcome {
+    font-variant: small-caps;
+    margin-left: 140px;
+}
+
+.link {
+    color: white;
+}
+
+.custom-background {
+   background-color: #efebe9;
+}
+
+#custom-button {
+    background-color: #d84315;
+}
+
+.icon {
+  max-height: 200px;
+  max-width: 200px;
+}
+
+.nelson-img {
+    margin-bottom: -150px;
+}
+
+#background {
+    background-color: #ef6c00;
+}
+
+#reveal-background {
+    background-color: #efebe9;
+}
+
+
